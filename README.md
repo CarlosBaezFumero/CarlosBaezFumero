@@ -1,4 +1,8 @@
-### Hi there 👋
+Hi there 👋
+
+Originally from the Canary Islands, Spain 🏝️ Determined to become a Developer. Recently completed Le Wagon bootcamp to do just that. Currently assisting in a website, and would love to bring these skills to a full-time position.
+
+- 📫 Reach me via email carlos.baez.fumero@gmail.com or linkedin www.linkedin.com/in/carlos-baez-fumero/
 
 <!--
 **CarlosBaezFumero/CarlosBaezFumero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
