@@ -1,6 +1,6 @@
 Hi there 👋
 
-Originally from the Canary Islands, Spain 🏝️ Determined to become a Developer. Recently completed Le Wagon bootcamp to do just that. Currently assisting in a website, and would love to bring these skills to a full-time position.
+Originally from the Canary Islands, Spain. 🏝️Looking for exciting new challenges to learn and keep doing what I love. I've been freelancing on a web project with Typescript and Nextjs to bring a product to life. Always in search of new opportunities to keep growing. 
 
 📫 Reach me: 📧 carlos.baez.fumero@gmail.com or www.linkedin.com/in/carlos-baez-fumero/
 
